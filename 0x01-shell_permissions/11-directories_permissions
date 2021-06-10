@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R --Xreference=. ../
+chmod -R --reference +X=. ../

@@ -1,0 +1,2 @@
+#!/bin/bash
+echo 😕 > x | sort < x
